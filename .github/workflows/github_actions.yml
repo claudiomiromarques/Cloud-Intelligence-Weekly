@@ -1,0 +1,40 @@
+name: Cloud Intelligence Collector
+
+on:
+  schedule:
+    # Roda todos os dias às 06:00 UTC (03:00 Horário de Brasília)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite rodar manualmente clicando no botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Dá permissão explícita para o robô commitar as notícias de volta no seu repositório
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout do Código
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12' # Corrigido para python-version e atualizado para a 3.12 igual à sua máquina
+
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Executar Coletor de Notícias
+      run: python python/collector.py
+
+    - name: Commit e Push dos Dados Coletados
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "action@github.com"
+        git add reports/raw_daily.md
+        git diff-index --quiet HEAD || git commit -m "🤖 Automatizado: Coleta diária de fontes oficiais [skip ci]"
+        git push
