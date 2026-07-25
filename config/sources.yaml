@@ -1,0 +1,59 @@
+providers:
+  aws:
+    name: "Amazon Web Services"
+    feed_url: "https://aws.amazon.com/blogs/aws/feed/"
+    category: "Cloud"
+  
+  gcp:
+    name: "Google Cloud Platform"
+    feed_url: "https://cloudblog.withgoogle.com/products/gcp/rss/"
+    category: "Cloud"
+
+  oci:
+    name: "Oracle Cloud Infrastructure"
+    #feed_url: "https://blogs.oracle.com/cloud-infrastructure/rss"
+    # Nova rota de Feed RSS alternativa e tolerante da Oracle Cloud
+    feed_url: "https://blogs.oracle.com/rss"
+    category: "Cloud"
+
+  kubernetes:
+    name: "Kubernetes Community"
+    feed_url: "https://kubernetes.io/feed.xml"
+    category: "Containers"
+    
+  postgres:
+    name: "PostgreSQL Global"
+    feed_url: "https://www.postgresql.org/news.rss"
+    category: "Database"
+
+  terraform:
+    name: "HashiCorp Terraform"
+    feed_url: "https://www.hashicorp.com/blog/products/terraform/feed.xml"
+    category: "IaC"
+
+  ansible:
+    name: "Red Hat Ansible"
+    feed_url: "https://www.ansible.com/blog/rss.xml"
+    category: "Automation"
+
+  anthropic:
+    name: "Anthropic News (Claude)"
+    # feed_url: "https://www.anthropic.com/news.rss" # Rota estável do feed XML do site principal
+    # Rota pública limpa do feed RSS feedburner/institucional
+    feed_url: "https://www.anthropic.com/news"
+    category: "Inteligência Artificial"
+
+  multicloud_devops:
+    name: "The New Stack (Multicloud & DevOps)"
+    feed_url: "https://thenewstack.io/blog/feed/"
+    category: "Multicloud"
+
+  cloudflare_eng:
+    name: "Cloudflare Engineering (Segurança & Edge)"
+    feed_url: "https://blog.cloudflare.com/rss/"
+    category: "Segurança"
+
+  health_infra:
+    name: "Maturidade e Governança de TI em Saúde (LGPD)"
+    feed_url: "https://www.hipaajournal.com/feed/"
+    category: "HealthTech"
