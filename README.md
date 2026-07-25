@@ -146,8 +146,10 @@ Caso encontre o erro `[rejected] main -> main (fetch first)` ao tentar dar `git 
 
 ### 1. Salve suas alterações locais
 ```powershell
+
 git add .
-git commit -m "feat: suas alteracoes locais aqui"
+
+git commit -m "feat: ATualiza do README"
 
 ```
 
@@ -156,23 +158,26 @@ git commit -m "feat: suas alteracoes locais aqui"
 Utilize o `pull` com mesclagem padrão para integrar as atualizações diárias da automação:
 
 ```powershell
+
 git pull origin main --no-rebase
 
 ```
 
 * 💡 **Em caso de conflito no arquivo `raw_daily.md`:** Aceite a versão local e finalize a mesclagem:
 ```powershell
+
 git checkout --ours reports/raw_daily.md
+
 git add reports/raw_daily.md
+
 git commit -m "fix: resolve conflito no raw_daily.md"
 
 ```
 
-
-
 ### 3. Envie as atualizações
 
 ```powershell
+
 git push origin main
 
 ```

@@ -1,4 +1,8 @@
 providers:
+  azure:
+    name: "Azure Microsoft"
+    feed_url: "https://learn.microsoft.com/en-us/azure/architecture/changelog/"
+    category: "Cloud"
   aws:
     name: "Amazon Web Services"
     feed_url: "https://aws.amazon.com/blogs/aws/feed/"
@@ -6,14 +10,14 @@ providers:
   
   gcp:
     name: "Google Cloud Platform"
-    feed_url: "https://cloudblog.withgoogle.com/products/gcp/rss/"
+    feed_url: "https://cloud.google.com/release-notes/"
     category: "Cloud"
 
   oci:
     name: "Oracle Cloud Infrastructure"
     #feed_url: "https://blogs.oracle.com/cloud-infrastructure/rss"
     # Nova rota de Feed RSS alternativa e tolerante da Oracle Cloud
-    feed_url: "https://blogs.oracle.com/rss"
+    feed_url: "https://docs.oracle.com/en-us/iaas/releasenotes/"
     category: "Cloud"
 
   kubernetes:
