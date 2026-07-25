@@ -123,12 +123,63 @@ Get-Content reports/raw_daily.md -Encoding utf8
 
 ### 📦 Comandos para salvar e enviar ao GitHub pelo PowerShell:
 
-```git add ../README.md
+```
+git add ../README.md
 
 git commit -m "docs: atualiza readme com novas fontes e comandos de limpeza"
 
 git push origin main
 ---
+
+Aqui está o bloco para você adicionar no **`README.md`** explicando como resolver conflitos de sincronização entre o seu ambiente local e as atualizações automáticas do GitHub Actions.
+
+Você pode colar esta seção logo antes da seção final ("Mantido de forma automatizada..."):
+
+```markdown
+---
+
+## 🔄 Sincronização Local com o GitHub Actions
+
+Como o robô do GitHub Actions realiza commits automáticos diários diretamente no repositório remoto (atualizando o `reports/raw_daily.md`), o seu ambiente local pode ficar desatualizado em relação ao remoto (`non-fast-forward`).
+
+Caso encontre o erro `[rejected] main -> main (fetch first)` ao tentar dar `git push`, siga o procedimento abaixo:
+
+### 1. Salve suas alterações locais
+```powershell
+git add .
+git commit -m "feat: suas alteracoes locais aqui"
+
+```
+
+### 2. Sincronize com o repositório remoto
+
+Utilize o `pull` com mesclagem padrão para integrar as atualizações diárias da automação:
+
+```powershell
+git pull origin main --no-rebase
+
+```
+
+* 💡 **Em caso de conflito no arquivo `raw_daily.md`:** Aceite a versão local e finalize a mesclagem:
+```powershell
+git checkout --ours reports/raw_daily.md
+git add reports/raw_daily.md
+git commit -m "fix: resolve conflito no raw_daily.md"
+
+```
+
+
+
+### 3. Envie as atualizações
+
+```powershell
+git push origin main
+
+```
+
+```
+
+```
 
 Mantido de forma automatizada por GitHub Actions.
 
