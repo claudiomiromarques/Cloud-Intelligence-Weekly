@@ -113,7 +113,7 @@ cd Cloud-Intelligence-Weekly
 pip install -r requirements.txt
 
 # Execute o coletor localmente
-python python/collector.py
+python collectors/collector.py
 
 # Visualizar a saída no PowerShell garantindo encoding UTF-8
 Get-Content reports/raw_daily.md -Encoding utf8
