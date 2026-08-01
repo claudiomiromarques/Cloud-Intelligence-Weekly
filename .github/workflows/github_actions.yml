@@ -38,3 +38,5 @@ jobs:
         git add reports/raw_daily.md
         git diff-index --quiet HEAD || git commit -m "🤖 Automatizado: Coleta diária de fontes oficiais [skip ci]"
         git push
+
+# trigger update
