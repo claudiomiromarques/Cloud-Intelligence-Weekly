@@ -242,3 +242,64 @@
   Link: https://www.hipaajournal.com/free-hipaa-security-risk-assessment/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 06/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+- **[Cloud]** AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/
+- **[Cloud]** AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+- **[Containers]** How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/
+
+- **[Database]** Announcing E-Maj 5.0.0. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-e-maj-500-3353/
+- **[Database]** pgBackRest 2.59.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbackrest-2590-released-3355/
+- **[Database]** pgAdmin 4 v9.17 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgadmin-4-v917-released-3356/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Google’s four AI departures: “We wanted to build something differently” (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/deepmind-discovery-loop-departures/
+- **[Multicloud]** The 800 mistakes that could reshape Meta’s AI coding strategy (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/meta-metacode-engineer-training/
+- **[Multicloud]** Every software company will become a dev tools company (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/platform-engineering-ai-harness/
+
+- **[Segurança]** Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/
+- **[Segurança]** The Agent Access Model (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/the-agent-access-model/
+- **[Segurança]** How we’re rethinking work at Cloudflare with Cloudflare OS (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/
+
+- **[HealthTech]** Data Breach Lawsuits Settled by Omni Healthcare & Western Montana Clinic (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/omni-healthcare-western-montana-clinic-data-breach-settlements/
+- **[HealthTech]** Privacy Concerns Raised Over Government Demand for Hospital Emergency Room Data (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/privacy-concerns-government-demand-hospital-emergency-room-data/
+- **[HealthTech]** Brown Health Medical Group-MA Data Breach Affects 312,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/
+
+---
