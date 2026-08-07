@@ -303,3 +303,64 @@
   Link: https://www.hipaajournal.com/brown-health-medical-group-ma-data-breach/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 07/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+- **[Cloud]** AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+- **[Containers]** How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/
+
+- **[Database]** Announcing E-Maj 5.0.0. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-e-maj-500-3353/
+- **[Database]** pgBackRest 2.59.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbackrest-2590-released-3355/
+- **[Database]** pgAdmin 4 v9.17 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgadmin-4-v917-released-3356/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** GPT-5.6 Sol just got better in one place and stayed the same everywhere else (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/gpt-sol-chatgpt-split/
+- **[Multicloud]** Why AI tools know nothing about your company — until now (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cloudflare-os-agentic-workspace-security/
+- **[Multicloud]** Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/aws-dogwood-agent-policies/
+
+- **[Segurança]** Cloudflare AI Search: give your agents a search engine for your data (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/ai-search-easier/
+- **[Segurança]** The next generation of MCP (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/mcp-v2/
+- **[Segurança]** From ranking to recommended: get your site ready to thrive in the age of AI agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/aeo/
+
+- **[HealthTech]** Ransom Cartel Mastermind Sentenced to 16 Years in Prison (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/
+- **[HealthTech]** Settlements Resolve Data Breach Lawsuits Against McKenzie Health System & Aspire Health Alliance (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/mckenzie-health-system-aspire-health-alliance-data-breach-settlements/
+- **[HealthTech]** Merit Health Central Hospital	& NorthShore University Health System Settle EMTALA Violations (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/merit-health-central-hospital-northshore-university-health-system-emtala-violations/
+
+---
