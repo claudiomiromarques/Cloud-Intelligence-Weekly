@@ -425,3 +425,64 @@
   Link: https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 09/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+- **[Cloud]** AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+- **[Containers]** How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/
+
+- **[Database]** Postgres Summit US 2026 Schedule is now live! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgres-summit-us-2026-schedule-is-now-live-3359/
+- **[Database]** Autobase 2.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/autobase-210-released-3357/
+- **[Database]** Announcing E-Maj 5.0.0. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-e-maj-500-3353/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** AI adoption isn’t the same as AI usage (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-adoption-versus-usage/
+- **[Multicloud]** Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kubevirt-evpn-vm-migration/
+- **[Multicloud]** Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/agent-plugins-open-standard/
+
+- **[Segurança]** Unveiling good and bad behaviors on the Agentic Internet (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/good-and-bad-agentic-behaviors/
+- **[Segurança]** Introducing Radar Researcher: An AI tool for exploring Internet data in plain language (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-radar-researcher/
+- **[Segurança]** Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/community-program-refresh/
+
+- **[HealthTech]** Five Healthcare Providers Settle Pixel Class Action Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/five-healthcare-providers-pixel-class-action-settlements/
+- **[HealthTech]** Free Webinar:  Inside 250 HIPAA Investigations – What You Need to Know (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/free-webinar-hipaa-compliance/
+- **[HealthTech]** Ransom Cartel Mastermind Sentenced to 16 Years in Prison (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ransom-cartel-mastermind-sentenced-16-years/
+
+---
