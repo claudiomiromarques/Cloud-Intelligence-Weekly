@@ -547,3 +547,64 @@
   Link: https://www.hipaajournal.com/free-webinar-hipaa-compliance/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 11/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/
+- **[Cloud]** Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+- **[Containers]** How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/
+
+- **[Database]** Postgres Summit US 2026 Schedule is now live! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgres-summit-us-2026-schedule-is-now-live-3359/
+- **[Database]** Autobase 2.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/autobase-210-released-3357/
+- **[Database]** Announcing E-Maj 5.0.0. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-e-maj-500-3353/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI built a model it doesn’t want most people to use (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-gpt56-cyber-daybreak/
+- **[Multicloud]** Meta’s Muse Glimmer fits on a laptop (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/meta-glimmer-distillation-agents/
+- **[Multicloud]** Pulling multi-gigabyte container images in seconds on Amazon EKS (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/accelerating-eks-image-pulls/
+
+- **[Segurança]** Everything we launched during Agents Week (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/agents-week-review-august-2026/
+- **[Segurança]** Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/fedramp-class-d-certification/
+- **[Segurança]** Unveiling good and bad behaviors on the Agentic Internet (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/good-and-bad-agentic-behaviors/
+
+- **[HealthTech]** California Child Care Company Discovers 9-Year Employee Data Leak (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/california-child-care-company-9-year-data-leak/
+- **[HealthTech]** Data Breaches Announced by Loma Linda University Health & UCLA Health (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breaches-loma-linda-university-health-ucla-health/
+- **[HealthTech]** Five Healthcare Providers Settle Pixel Class Action Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/five-healthcare-providers-pixel-class-action-settlements/
+
+---
