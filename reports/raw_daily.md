@@ -608,3 +608,64 @@
   Link: https://www.hipaajournal.com/five-healthcare-providers-pixel-class-action-settlements/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 12/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/
+- **[Cloud]** Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/moonshotai/Kimi-K3
+
+- **[Containers]** How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+
+- **[Database]** Postgres Summit US 2026 Schedule is now live! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgres-summit-us-2026-schedule-is-now-live-3359/
+- **[Database]** Autobase 2.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/autobase-210-released-3357/
+- **[Database]** Announcing E-Maj 5.0.0. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-e-maj-500-3353/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Your AI agent remembers everything. Here’s what happens when its owner changes. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/manus-meta-data-deletion/
+- **[Multicloud]** Why CPUs still matter in the age of AI agents (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cpus-matter-ai-agents/
+- **[Multicloud]** How I learned to stop worrying and love hyperscaler capex (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/stop-worrying-hyperscaler-capex/
+
+- **[Segurança]** Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/ddos-threat-report-2026-h1/
+- **[Segurança]** Everything we launched during Agents Week (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/agents-week-review-august-2026/
+- **[Segurança]** Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/fedramp-class-d-certification/
+
+- **[HealthTech]** Healthcare Orgs Warned About Gunra Ransomware Attacks (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/gunra-ransomware/
+- **[HealthTech]** Data Breaches Reported by Sunshine Health; Health Payment Systems (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breaches-sunshine-health-health-payment-systems/
+- **[HealthTech]** California Child Care Company Discovers 9-Year Employee Data Leak (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/california-child-care-company-9-year-data-leak/
+
+---
