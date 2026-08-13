@@ -669,3 +669,64 @@
   Link: https://www.hipaajournal.com/california-child-care-company-9-year-data-leak/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 13/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/
+- **[Cloud]** Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
+- **[Cloud]** Amazon DynamoDB now supports real-time vector search at any scale (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/moonshotai/Kimi-K3
+
+- **[Containers]** How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+
+- **[Database]** SynchDB 1.4 Released - Oracle Container Database Support and TLS-Secured FDW Snapshots (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/synchdb-14-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-3362/
+- **[Database]** plx : Write PostgreSQL functions in the language you already know. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/plx-write-postgresql-functions-in-the-language-you-already-know-3358/
+- **[Database]** Dasha - performance dashboard (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dasha-performance-dashboard-3360/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** “Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/coderabbit-agentic-change-management-review/
+- **[Multicloud]** Anthropic’s Chrome extension is now a Cowork session (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-chrome-cowork-sessions/
+- **[Multicloud]** Why space is actually a terrible place to cool a data center (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/spacex-and-nvidias-orbital-ai-datacenter-fantasy/
+
+- **[Segurança]** Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/ddos-threat-report-2026-h1/
+- **[Segurança]** Everything we launched during Agents Week (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/agents-week-review-august-2026/
+- **[Segurança]** Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/fedramp-class-d-certification/
+
+- **[HealthTech]** AnMed Faces Continued Ransomware as Attacker Ramps Up Pressure (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/
+- **[HealthTech]** Strict Rules Set for Change Healthcare Dataset in Multidistrict Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/strict-rules-change-healthcare-data-use-multidistrict-litigation/
+- **[HealthTech]** Critical Vulnerabilities Identified in Popular Consumer Fertility Device (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/vulnerabilities-mira-hormone-monitor-pulsetto-vagus-nerve-stimulator/
+
+---
