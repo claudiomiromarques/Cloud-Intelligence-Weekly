@@ -1035,3 +1035,64 @@
   Link: https://www.hipaajournal.com/free-webinar-hipaa-compliance/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 19/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/
+- **[Cloud]** AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/
+- **[Cloud]** AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/moonshotai/Kimi-K3
+
+- **[Containers]** How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+
+- **[Database]** powa-archivist 5.3.0 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/powa-archivist-530-is-out-3366/
+- **[Database]** PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365/
+- **[Database]** SynchDB 1.4 Released - Oracle Container Database Support and TLS-Secured FDW Snapshots (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/synchdb-14-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-3362/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** What happens to your indexed data when Mistral flips the switch? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/mistral-mcp-connector-migration/
+- **[Multicloud]** “If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cursor-origin-github-alternative/
+- **[Multicloud]** A Claude Code skill was eating 200,000 tokens before answering a single question (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-code-token-reduction/
+
+- **[Segurança]** BGP Role model: tracking the adoption of RFC 9234 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/rfc9234-bgp-role-model/
+- **[Segurança]** How Cloudflare detects MCP traffic and helps secure it (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/mcp-security-updates/
+- **[Segurança]** Secure all your internal vibe-coded applications — in one click (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-protected-by-access/
+
+- **[HealthTech]** American Addiction Centers & Oculus Pathology Disclose Hacking Incidents (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/american-addiction-centers-oculus-pathology-disclose-hacking-incidents/
+- **[HealthTech]** We Reviewed 80,300 Healthcare Review Replies. The HIPAA Risk Was Hiding in Plain Sight (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/study-healthcare-review-replies-hipaa-violations/
+- **[HealthTech]** CareCloud Data Breach Affects 3.3 Million Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/carecloud-data-breach/
+
+---
