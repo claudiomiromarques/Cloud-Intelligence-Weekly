@@ -1157,3 +1157,64 @@
   Link: https://www.hipaajournal.com/study-healthcare-review-replies-hipaa-violations/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 21/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/
+- **[Cloud]** AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/
+- **[Cloud]** AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+- **[Containers]** Kubernetes v1.37 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/
+
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+- **[Database]** powa-archivist 5.3.0 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/powa-archivist-530-is-out-3366/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** GitHub now sees 2.9 billion commits a month — and it can’t keep up (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/github-2-9b-monthly-commits/
+- **[Multicloud]** Google’s AI coding agent just escaped its own IDE (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/google-antigravity-ide-extensions/
+- **[Multicloud]** Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/debian-ai-contribution-ban-debate/
+
+- **[Segurança]** From all-or-nothing to task-based OAuth consent (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/task-based-oauth-consent/
+- **[Segurança]** A revisit of remote Spectre attacks on Cloudflare Workers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/
+- **[Segurança]** BGP Role model: tracking the adoption of RFC 9234 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/rfc9234-bgp-role-model/
+
+- **[HealthTech]** Medusa Ransomware Group Has Attacked 500+ Critical Infrastructure Orgs (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/medusa-ransomware/
+- **[HealthTech]** Free Webinar Recording:  Inside 250 HIPAA Investigations – What You Need to Know (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/inside-250-hipaa-investigations/
+- **[HealthTech]** Patient & Employee Data Exposed in Baylor Genetics Cybersecurity Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/baylor-genetics-data-breach/
+
+---
