@@ -1523,3 +1523,64 @@
   Link: https://www.hipaajournal.com/medusa-ransomware/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 27/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+- **[Cloud]** AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/
+- **[Cloud]** AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Garhwal (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/
+- **[Containers]** How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/
+- **[Containers]** Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** This duck will teach you reinforcement learning — and pick up your socks (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/hugging-face-microduck-robot/
+- **[Multicloud]** Replit’s new default: Auto mode picks the best model for each task (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/replit-model-routing-default/
+- **[Multicloud]** Nvidia’s $12.9B Hugging Face deal has an open-source problem (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality/
+
+- **[Segurança]** How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+- **[Segurança]** The Cloudflare Blog – Brought to you by EmDash (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cloudflare-blog-uses-emdash/
+- **[Segurança]** Say it once: introducing Bot Preference Sync (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/bot-preference-sync/
+
+- **[HealthTech]** Boston Scientific Cyberattack Impacting Operations (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/boston-scientific-cyberattack/
+- **[HealthTech]** HIPAA Without a Law Degree (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-without-a-law-degree/
+- **[HealthTech]** ShinyHunters Leaks 7.1 Million Baxter International Records (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/shinyhunters-baxter-international-data-breach/
+
+---
