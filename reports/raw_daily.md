@@ -1645,3 +1645,64 @@
   Link: https://www.hipaajournal.com/boston-scientific-cyberattack/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 29/08/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+- **[Cloud]** AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/
+- **[Cloud]** AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/
+- **[Containers]** Kubernetes v1.37: Metrics API graduates to stable (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/
+- **[Containers]** Kubernetes v1.37: Garhwal (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** JetBrains told everyone to patch. It didn’t patch itself. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/
+- **[Multicloud]** LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/bionic-shell-command-safety/
+- **[Multicloud]** Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4” (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/qwen38-flash-previews-qwen4/
+
+- **[Segurança]** BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/botbase-for-operators/
+- **[Segurança]** How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+- **[Segurança]** The Cloudflare Blog – Brought to you by EmDash (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cloudflare-blog-uses-emdash/
+
+- **[HealthTech]** American Vision Partners Settles Data Breach Litigation for $1.75M (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/class-action-lawsuits-filed-against-american-vision-partners-over-data-breach/
+- **[HealthTech]** Azul Vision Settles HIPAA Right of Access Case for $50,000 (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/azul-vision-hipaa-right-access-penalty/
+- **[HealthTech]** Boston Scientific Cyberattack Impacting Operations (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/boston-scientific-cyberattack/
+
+---
