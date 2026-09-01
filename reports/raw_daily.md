@@ -1828,3 +1828,64 @@
   Link: https://www.hipaajournal.com/azul-vision-hipaa-right-access-penalty/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 01/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Storage Version Migration Enabled by Default (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/
+- **[Containers]** Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/
+- **[Containers]** Kubernetes v1.37: Metrics API graduates to stable (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/anthropic-spacex-cursor-compute-openai/
+- **[Multicloud]** MCP was supposed to solve the agent tooling problem. It missed a step. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ard-agent-discovery-specification/
+- **[Multicloud]** Google’s new forecasting model beats everyone. You can’t use it at work (yet). (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/google-timesfm-3-multivariate-forecasting/
+
+- **[Segurança]** Introducing Adaptive Intelligence: Undermining the economics of every bot attack (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+- **[Segurança]** BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/botbase-for-operators/
+- **[Segurança]** How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+
+- **[HealthTech]** DaVita Agrees to Pay $15 Million to Settle Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/davita-data-breach-settlement/
+- **[HealthTech]** Aesto Health Data Breach Affects 9.5 Million Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/aesto-health-data-breach/
+- **[HealthTech]** ShinyHunters Claims Theft of 284M Records from Healthcare Giant McKesson (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/mckesson-data-breach/
+
+---
