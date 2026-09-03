@@ -1950,3 +1950,64 @@
   Link: https://www.hipaajournal.com/davita-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 03/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
+- **[Containers]** Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/
+- **[Containers]** Kubernetes v1.37: Storage Version Migration Enabled by Default (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/quasar-438b-agent-compression/
+- **[Multicloud]** Your next OpenAI API timeout might not be a timeout at all (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/astra-api-safety-stops/
+- **[Multicloud]** Anthropic’s Claude failures have made agent observability a security priority (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/anthropic-claude-agent-security/
+
+- **[Segurança]** How we could save petabytes of cache storage with Zstandard and Pingora (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cache-transcoding/
+- **[Segurança]** Introducing Adaptive Intelligence: Undermining the economics of every bot attack (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+- **[Segurança]** BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/botbase-for-operators/
+
+- **[HealthTech]** Multi-Million Settlement Resolves Managed Care of North America Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/managed-care-of-north-america-data-breach-settlement/
+- **[HealthTech]** Baylor Genetics: ePHI of 2.8M Patients Exposed in Cybersecurity Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/baylor-genetics-data-breach/
+- **[HealthTech]** Nutex Health Confirms Sensitive Data Stolen in August Cyberattack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/nutex-health-data-breach/
+
+---
