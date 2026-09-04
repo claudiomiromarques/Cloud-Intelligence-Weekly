@@ -2011,3 +2011,64 @@
   Link: https://www.hipaajournal.com/nutex-health-data-breach/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 04/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: DRA Updates (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+- **[Containers]** Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
+- **[Containers]** Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-daybreak-frontline-defenders/
+- **[Multicloud]** How to find failures without drowning in tracing data (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/tracing-data-overload-sampling/
+- **[Multicloud]** GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/astra-arc-agi-benchmark/
+
+- **[Segurança]** Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vulnerability-discovery-remediation/
+- **[Segurança]** How we could save petabytes of cache storage with Zstandard and Pingora (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cache-transcoding/
+- **[Segurança]** Introducing Adaptive Intelligence: Undermining the economics of every bot attack (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+
+- **[HealthTech]** Midwest Spine and Brain Institute Impacted by Vendor Ransomware Attack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/midwest-spine-brain-institute-3c-care-systems-breach/
+- **[HealthTech]** Five Healthcare Providers Report Ransomware-Related Data Breaches (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ransomware-healthcare-providers-ca-ma-mo-fl-mi/
+- **[HealthTech]** Multi-Million Settlement Resolves Managed Care of North America Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/managed-care-of-north-america-data-breach-settlement/
+
+---
