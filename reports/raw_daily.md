@@ -2072,3 +2072,64 @@
   Link: https://www.hipaajournal.com/managed-care-of-north-america-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 05/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+- **[Cloud]** Happy 20th Birthday, Amazon EC2 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/
+- **[Containers]** Kubernetes v1.37: DRA Updates (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+- **[Containers]** Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
+
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+- **[Database]** Loongson loong64 packages on apt.postgresql.org (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** “Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/gpt6-astra-developer-access-delayed/
+- **[Multicloud]** Microsoft built a prompt injection detector. Then it caught a phishing campaign instead. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines/
+- **[Multicloud]** OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3 (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-astra-harness-arc-agi-3/
+
+- **[Segurança]** Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vulnerability-discovery-remediation/
+- **[Segurança]** How we could save petabytes of cache storage with Zstandard and Pingora (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cache-transcoding/
+- **[Segurança]** Introducing Adaptive Intelligence: Undermining the economics of every bot attack (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+
+- **[HealthTech]** Survey Reveals Patients Want to Know When and How AI is Used in Healthcare (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/survey-patient-ai-use-healthcare/
+- **[HealthTech]** SonicWall Warns of Actively Exploited Vulnerabilities in SMA1000 Appliances (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/sonicwall-actively-exploited-vulnerabilities-sma1000-appliances-sep-26/
+- **[HealthTech]** Resource Center of Dallas Notifies 12,500 Patients About Cyber Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/resource-center-dallas-data-breach/
+
+---
