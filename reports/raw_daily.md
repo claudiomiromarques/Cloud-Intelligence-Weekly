@@ -2255,3 +2255,64 @@
   Link: https://www.hipaajournal.com/resource-center-dallas-data-breach/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 08/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/
+- **[Containers]** Kubernetes v1.37: DRA Updates (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+- **[Containers]** Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/
+
+- **[Database]** PGConf India 2027 - Dates Announced and CFP Open (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgconf-india-2027-dates-announced-and-cfp-open-3370/
+- **[Database]** pg_statviz 1.2 released with PostgreSQL 19 support and new features (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/
+- **[Database]** LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** “Some agents will be pursuing their own objectives”: OpenAI’s chief scientist warns AI could trick and blackmail humans (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-voluntary-slowdown-safety/
+- **[Multicloud]** AI agents are creating more work, not less — and OpenAI’s own numbers back it up (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-agent-research-bottleneck/
+- **[Multicloud]** OpenAI’s new model costs 2.5x more per token — and developers are saving money anyway (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/astra-reasoning-effort-cost/
+
+- **[Segurança]** Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vulnerability-discovery-remediation/
+- **[Segurança]** How we could save petabytes of cache storage with Zstandard and Pingora (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cache-transcoding/
+- **[Segurança]** Introducing Adaptive Intelligence: Undermining the economics of every bot attack (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+
+- **[HealthTech]** NFI North Data Breach Affects Almost 50,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/nfi-north-nephrology-associates-data-breaches/
+- **[HealthTech]** Luminis Health Working to Restore Systems After Cyberattack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/luminis-health-jeffrey-reuben-well-child-horizon-eye-care-data-breaches/
+- **[HealthTech]** June 2026 Healthcare Data Breach Report (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/
+
+---
