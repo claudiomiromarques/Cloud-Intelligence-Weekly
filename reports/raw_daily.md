@@ -2316,3 +2316,64 @@
   Link: https://www.hipaajournal.com/june-2026-healthcare-data-breach-report/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 09/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+- **[Cloud]** AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Advancing Workload-Aware Scheduling (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
+- **[Containers]** Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/
+- **[Containers]** Kubernetes v1.37: DRA Updates (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+
+- **[Database]** PostgreSQL Anonymizer 3.2 : Faster Pseudonymization (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-anonymizer-32-faster-pseudonymization-3373/
+- **[Database]** Autobase 2.11 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/autobase-211-released-3374/
+- **[Database]** PGConf India 2027 - Dates Announced and CFP Open (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgconf-india-2027-dates-announced-and-cfp-open-3370/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Anthropic promised 20x more usage. Then developers hit a weekly ceiling. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/anthropic-claude-max-lawsuit/
+- **[Multicloud]** DeepSeek is hiring 150 engineers, and none of them will touch a model (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/deepseek-dsec-agent-hiring/
+- **[Multicloud]** AI broke code review. Two experts disagree on what replaces it. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-code-review-pipelines/
+
+- **[Segurança]** Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/automatic-key-exchange-for-origins/
+- **[Segurança]** Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vulnerability-discovery-remediation/
+- **[Segurança]** How we could save petabytes of cache storage with Zstandard and Pingora (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cache-transcoding/
+
+- **[HealthTech]** Wellstar Health System & Cone Health Settle Pixel Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/wellstar-health-system-cone-health-pixel-lawsuit-settlements/
+- **[HealthTech]** Two Ransomware Groups Claim Attacks on Nationwide Home Healthcare Provider (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/interim-healthcare-ransomware/
+- **[HealthTech]** Boston Scientific Unlikely to Meet 2026 Sales and Profit Forecast Due to Cyberattack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/boston-scientific-cyberattack/
+
+---
