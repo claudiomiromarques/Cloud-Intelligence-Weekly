@@ -2438,3 +2438,64 @@
   Link: https://www.hipaajournal.com/wellstar-health-system-cone-health-pixel-lawsuit-settlements/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 11/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon EBS Volume Clones across AWS accounts (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/
+- **[Containers]** Kubernetes v1.37: Introducing Node Lifecycle Conditions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/
+- **[Containers]** Kubernetes v1.37: Advancing Workload-Aware Scheduling (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
+
+- **[Database]** PostgreSQL Migrator 1.0 : first stable release (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/
+- **[Database]** pg_vault_tde v1.7.1 : Transparent Data Encryption for PostgreSQL 17 and 18 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_vault_tde-v171-transparent-data-encryption-for-postgresql-17-and-18-3376/
+- **[Database]** PostgreSQL Anonymizer 3.2 : Faster Pseudonymization (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-anonymizer-32-faster-pseudonymization-3373/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** AWS open-sources Pizza Bot: email-style inbox for background AI agents (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/aws-pizza-bot-agent-inbox/
+- **[Multicloud]** OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/gpt-live-1-voice-api/
+- **[Multicloud]** “Six tools, one harness”: Salesforce loops together a six-pack of favorites (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/salesforce-enterprise-ai-harness/
+
+- **[Segurança]** 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/post-quantum-dnssec-1111/
+- **[Segurança]** How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-module-registry-nodejs/
+- **[Segurança]** Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/automatic-key-exchange-for-origins/
+
+- **[HealthTech]** Central Maine Medical Center & Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/central-maine-medical-center-susan-b-allen-memorial-hospital-data-breach-settlements/
+- **[HealthTech]** High Severity Vulnerabilities Identified in NextGen Healthcare Mirth Connect (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/high-severity-vulnerabilities-nextgen-healthcare-mirth-connect/
+- **[HealthTech]** Veradigm Discloses Third Party Data Breach as Hackers Threaten to Publish Data (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/veradigm-data-breach-2026/
+
+---
