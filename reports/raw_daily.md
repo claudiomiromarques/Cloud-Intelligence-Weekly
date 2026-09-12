@@ -2499,3 +2499,64 @@
   Link: https://www.hipaajournal.com/veradigm-data-breach-2026/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 12/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon EBS Volume Clones across AWS accounts (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+- **[Cloud]** Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Native Histograms Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/
+- **[Containers]** Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/
+- **[Containers]** Kubernetes v1.37: Introducing Node Lifecycle Conditions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/
+
+- **[Database]** CERN PGDay 2027: Announcement and CfP (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/
+- **[Database]** PostgreSQL Migrator 1.0 : first stable release (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/
+- **[Database]** pg_vault_tde v1.7.1 : Transparent Data Encryption for PostgreSQL 17 and 18 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_vault_tde-v171-transparent-data-encryption-for-postgresql-17-and-18-3376/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-agents-api-compute/
+- **[Multicloud]** OpenAI’s safety system is already cutting off API responses mid-task (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-slowing-ai-development/
+- **[Multicloud]** Cohere’s new translation model is open weights — but not for commercial use (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cohere-translation-commercial-licensing/
+
+- **[Segurança]** Introducing automatic remediation policies with Cloudflare CASB (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/casb-policies/
+- **[Segurança]** 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/post-quantum-dnssec-1111/
+- **[Segurança]** How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-module-registry-nodejs/
+
+- **[HealthTech]** FDA Seeks Feedback on Potential Regulation of GenAI Medical Devices (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/fda-feedback-potential-regulation-genai-medical-devices/
+- **[HealthTech]** HHS Updates Security Risk Assessment Tool (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hhs-security-risk-assessment-tool-3-7/
+- **[HealthTech]** Orthanc DICOM Server Vulnerability Can Lead to Denial of Service (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/orthanc-dicom-server-vulnerability-denial-of-service/
+
+---
