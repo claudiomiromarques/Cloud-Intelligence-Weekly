@@ -2682,3 +2682,64 @@
   Link: https://www.hipaajournal.com/orthanc-dicom-server-vulnerability-denial-of-service/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 15/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/
+- **[Cloud]** Introducing Amazon EBS Volume Clones across AWS accounts (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes Changed Block Tracking API - Beta Differences (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/
+- **[Containers]** Kubernetes v1.37: Memory QoS Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/
+- **[Containers]** Kubernetes v1.37: Native Histograms Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/
+
+- **[Database]** CERN PGDay 2027: Announcement and CfP (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/
+- **[Database]** PostgreSQL Migrator 1.0 : first stable release (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/
+- **[Database]** pg_vault_tde v1.7.1 : Transparent Data Encryption for PostgreSQL 17 and 18 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_vault_tde-v171-transparent-data-encryption-for-postgresql-17-and-18-3376/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** AI’s best coding agent fails 60% of the time — and the data backs it up (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/real-swe-coding-benchmark/
+- **[Multicloud]** Perplexity’s new agent runs entirely on your GPU — with one expensive catch (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/perplexity-portable-computer-windows/
+- **[Multicloud]** AI keeps finding security flaws — here’s what to fix first (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/vulnerability-prioritization-business-context/
+
+- **[Segurança]** Introducing automatic remediation policies with Cloudflare CASB (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/casb-policies/
+- **[Segurança]** 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/post-quantum-dnssec-1111/
+- **[Segurança]** How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-module-registry-nodejs/
+
+- **[HealthTech]** Hacking Incident Affects 46,000 Hawaii Family Dental Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/
+- **[HealthTech]** FTC Rescinds 2021 Policy Statement on Health App Data Breaches (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ftc-rescinds-policy-statement-health-app-data-breaches/
+- **[HealthTech]** Conti Ransomware Member Sentenced to 4 Years in Jail (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/
+
+---
