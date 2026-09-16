@@ -2743,3 +2743,64 @@
   Link: https://www.hipaajournal.com/conti-ransomware-member-sentenced-4-years/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 16/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/
+- **[Cloud]** Introducing Amazon EBS Volume Clones across AWS accounts (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
+- **[Cloud]** AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/
+- **[Containers]** Kubernetes Changed Block Tracking API - Beta Differences (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/
+- **[Containers]** Kubernetes v1.37: Memory QoS Graduates to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/
+
+- **[Database]** pgAssistant 3.8.0 : continuous improvement loop for Postgres (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgassistant-380-continuous-improvement-loop-for-postgres-3378/
+- **[Database]** CERN PGDay 2027: Announcement and CfP (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/
+- **[Database]** PostgreSQL Migrator 1.0 : first stable release (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/computer-use-agent-connectors/
+- **[Multicloud]** Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents don’t get their own identity. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/meta-mcp-whatsapp-business-claude/
+- **[Multicloud]** OpenAI’s voice model doesn’t think. That’s the point. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/voice-agent-latency-architectures/
+
+- **[Segurança]** Have it both ways: stay discoverable in search while disallowing AI training (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+- **[Segurança]** Give every teammate and agent the right level of access to your Workers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-granular-authorization/
+- **[Segurança]** Introducing automatic remediation policies with Cloudflare CASB (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/casb-policies/
+
+- **[HealthTech]** xHealth Data Breach Affects 118,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/xhealth-data-breach/
+- **[HealthTech]** Nationwide Home Health Care Provider Announces Major Data Breach (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/lhc-group-data-breach/
+- **[HealthTech]** Hacking Incident Affects 46,000 Hawaii Family Dental Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/
+
+---
