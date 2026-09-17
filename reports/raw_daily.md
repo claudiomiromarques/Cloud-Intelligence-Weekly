@@ -2804,3 +2804,64 @@
   Link: https://www.hipaajournal.com/hacking-incident-hawaii-family-dental/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 17/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS reimagines the getting started experience (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/
+- **[Cloud]** AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/
+- **[Cloud]** Introducing Amazon EBS Volume Clones across AWS accounts (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+- **[Containers]** Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/
+- **[Containers]** Kubernetes Changed Block Tracking API - Beta Differences (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/
+
+- **[Database]** pgAssistant 3.8.0 : continuous improvement loop for Postgres (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgassistant-380-continuous-improvement-loop-for-postgres-3378/
+- **[Database]** CERN PGDay 2027: Announcement and CfP (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/
+- **[Database]** PostgreSQL Migrator 1.0 : first stable release (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Perplexity’s AI agents helped build a database. They weren’t allowed to run it. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/perplexity-cobbledb-ai-database/
+- **[Multicloud]** Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/automattic-mullenweg-boardroom-reversal/
+- **[Multicloud]** “Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/zed-delta-github-alternative/
+
+- **[Segurança]** When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/
+- **[Segurança]** Have it both ways: stay discoverable in search while disallowing AI training (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+- **[Segurança]** Give every teammate and agent the right level of access to your Workers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-granular-authorization/
+
+- **[HealthTech]** House Subcommittee on Health Examines Healthcare Cybersecurity Proposals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/house-subcommittee-health-examines-healthcare-cybersecurity-proposals/
+- **[HealthTech]** xHealth Data Breach Affects 118,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/xhealth-data-breach/
+- **[HealthTech]** Nationwide Home Health Care Provider Announces Major Data Breach (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/lhc-group-data-breach/
+
+---
