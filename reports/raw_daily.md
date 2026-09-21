@@ -3048,3 +3048,64 @@
   Link: https://www.hipaajournal.com/community-dental-care-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 21/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** New low-cost burstable Amazon EC2 T8i instances are generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/
+- **[Cloud]** AWS Elastic Beanstalk introduces Cluster Mode (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/
+- **[Cloud]** AWS reimagines the getting started experience (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+- **[Containers]** Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/
+- **[Containers]** Kubernetes Changed Block Tracking API - Beta Differences (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/
+
+- **[Database]** pgAdmin 4 v9.18 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/
+- **[Database]** pgAssistant 3.8.0 : continuous improvement loop for Postgres (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgassistant-380-continuous-improvement-loop-for-postgres-3378/
+- **[Database]** CERN PGDay 2027: Announcement and CfP (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Your AI agent failed. The model might not be the problem. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/nvidia-agent-debugging-safe/
+- **[Multicloud]** One engineer shipped 2,000 PRs a month to production. Verification is the key. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/agentic-verification-distributed-systems/
+- **[Multicloud]** “Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/vercel-hobby-deployment-retention/
+
+- **[Segurança]** Saving another 100TB of RAM with math (and Rust) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
+- **[Segurança]** When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/
+- **[Segurança]** Have it both ways: stay discoverable in search while disallowing AI training (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+
+- **[HealthTech]** Cybersecurity Awareness Month 2026: Critical Infrastructure Urged to Adopt Cybersecurity 3Rs (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/cybersecurity-awareness-month-2026-critical-infrastructure-urged-to-adopt-cybersecurity-3rs/
+- **[HealthTech]** HHS-OIG Urges CMS & MA Organizations to Increase Efforts to Prevent Durable Medical Equipment Fraud (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hhs-oig-cms-mao-durable-medical-equipment-fraud/
+- **[HealthTech]** Democratic Senators Reintroduce the Health Infrastructure Security and Accountability Act (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/health-infrastructure-security-and-accountability-act-2026/
+
+---
