@@ -3109,3 +3109,64 @@
   Link: https://www.hipaajournal.com/health-infrastructure-security-and-accountability-act-2026/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 22/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/
+- **[Cloud]** New low-cost burstable Amazon EC2 T8i instances are generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/
+- **[Cloud]** AWS Elastic Beanstalk introduces Cluster Mode (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+- **[Containers]** Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/
+
+- **[Database]** pgsql-test: Real Postgres Testing for Faster Development Loops (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgsql-test-real-postgres-testing-for-faster-development-loops-3380/
+- **[Database]** PostgresCompare 2.2.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgrescompare-220-released-3382/
+- **[Database]** pgAdmin 4 v9.18 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Grok Build vs. Claude Code: I tested which one has the better memory (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/grok-build-vs-claude-code-memory/
+- **[Multicloud]** TypeSafe launched Jev because sequential LLMs are “totally useless for computers” (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/typesafe-jev-system-one/
+- **[Multicloud]** Your AI agent is burning tokens on choices that don’t need words (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kev-skips-text-generation/
+
+- **[Segurança]** Python Workers are now generally available (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/python-workers-ga/
+- **[Segurança]** Saving another 100TB of RAM with math (and Rust) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
+- **[Segurança]** When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/
+
+- **[HealthTech]** What a Healthcare Compliance Attorney Heard at the OCR’s HIPAA Security Conference (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ocr-nist-hipaa-security-conference/
+- **[HealthTech]** Data Breach at Translation Vendor Affects UnitedHealthcare Plan Members (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/united-anguage-group-desert-pulmonary-sleep-consultants-breach/
+- **[HealthTech]** Cybersecurity Awareness Month 2026: Critical Infrastructure Urged to Adopt Cybersecurity 3Rs (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/cybersecurity-awareness-month-2026-critical-infrastructure-urged-to-adopt-cybersecurity-3rs/
+
+---
