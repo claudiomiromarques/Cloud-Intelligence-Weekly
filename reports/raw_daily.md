@@ -3170,3 +3170,64 @@
   Link: https://www.hipaajournal.com/cybersecurity-awareness-month-2026-critical-infrastructure-urged-to-adopt-cybersecurity-3rs/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 23/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
+- **[Cloud]** Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/
+- **[Cloud]** AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+
+- **[Database]** SQL Manager for PostgreSQL 7.0: meet the AI Assistant (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/sql-manager-for-postgresql-70-meet-the-ai-assistant-3379/
+- **[Database]** pgsql-test: Real Postgres Testing for Faster Development Loops (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgsql-test-real-postgres-testing-for-faster-development-loops-3380/
+- **[Database]** PostgresCompare 2.2.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgrescompare-220-released-3382/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Claude Opus 5.5 wants to finish your coding tasks, not just start them (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-opus-5-5-lifecycle/
+- **[Multicloud]** GPT-6 Sol closes most of the alignment gap with Astra. It’s one-fifth the price. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/gpt-sol-alignment-gaps/
+- **[Multicloud]** “One of the most significant steps in our 26-year history”: JetBrains goes big on agentic development — and bets the IDE still matters (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/jetbrains-air-agents-ide/
+
+- **[Segurança]** We just shipped support for the ugliest part of HTTP: Vary (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vary-support/
+- **[Segurança]** Introducing Worker Previews: Isolated preview environments for every change your agent makes (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/worker-previews/
+- **[Segurança]** Python Workers are now generally available (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/python-workers-ga/
+
+- **[HealthTech]** Call-on-Doc Notifies Patients About December 2025 Hacking Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/call-on-doc-data-breach/
+- **[HealthTech]** Albany College of Pharmacy and Health Sciences Data Breach Settlement (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/albany-college-pharmacy-health-sciences-data-breach-settlement/
+- **[HealthTech]** What a Healthcare Compliance Attorney Heard at the OCR’s HIPAA Security Conference (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ocr-nist-hipaa-security-conference/
+
+---
