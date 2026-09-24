@@ -3231,3 +3231,64 @@
   Link: https://www.hipaajournal.com/ocr-nist-hipaa-security-conference/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 24/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
+- **[Cloud]** Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/
+- **[Cloud]** AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+
+- **[Database]** PgBouncer 1.26.0 released - Fixes three CVEs (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbouncer-1260-released-fixes-three-cves-3385/
+- **[Database]** SQL Manager for PostgreSQL 7.0: meet the AI Assistant (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/sql-manager-for-postgresql-70-meet-the-ai-assistant-3379/
+- **[Database]** pgsql-test: Real Postgres Testing for Faster Development Loops (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgsql-test-real-postgres-testing-for-faster-development-loops-3380/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/q-ant-open-sources-cuda/
+- **[Multicloud]** “Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6 (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/xiaomi-mimo-vs-6-open-source/
+- **[Multicloud]** A third option is emerging in the fight over AI and your data (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/vast-dataenclave-confidential-computing/
+
+- **[Segurança]** We just shipped support for the ugliest part of HTTP: Vary (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vary-support/
+- **[Segurança]** Introducing Worker Previews: Isolated preview environments for every change your agent makes (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/worker-previews/
+- **[Segurança]** Python Workers are now generally available (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/python-workers-ga/
+
+- **[HealthTech]** Oculus Pathology Notifies 20,000 Patients About April 2026 Security Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/oculus-pathology-data-breach/
+- **[HealthTech]** California Seeks to Implement AI Guardrails for Mental Health Treatment (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/california-ai-guardrails-mental-health-treatment/
+- **[HealthTech]** 77% of Ransomware Groups Are Targeting the Healthcare Sector (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ransomware-industry-targeting-us/
+
+---
