@@ -3353,3 +3353,64 @@
   Link: https://www.hipaajournal.com/cvs-health-criteo-american-wellness-corp-data-breach-settlements/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 26/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/
+- **[Cloud]** Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
+- **[Cloud]** Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+
+- **[Database]** PostgreSQL 19 Beta 4 Released! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-19-beta-4-released-3386/
+- **[Database]** PgBouncer 1.26.0 released - Fixes three CVEs (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbouncer-1260-released-fixes-three-cves-3385/
+- **[Database]** SQL Manager for PostgreSQL 7.0: meet the AI Assistant (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/sql-manager-for-postgresql-70-meet-the-ai-assistant-3379/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/copilot-agents-identity-runtime/
+- **[Multicloud]** OpenTelemetry and Prometheus are getting along. What’s still missing? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/opentelemetry-prometheus-observability-interoperability/
+- **[Multicloud]** OpenAI and Cursor agree on agent coordinators. They disagree on who runs them. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-cursor-coordinator-agents/
+
+- **[Segurança]** Agents can now set up your website’s security with Turnstile Spin (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/turnstile-spin/
+- **[Segurança]** How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/containers-cross-tenant-vulnerability/
+- **[Segurança]** We just shipped support for the ugliest part of HTTP: Vary (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vary-support/
+
+- **[HealthTech]** Labcorp Settles Multistate Data Breach Investigation for $2.3 Million (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/labcorp-multistate-settlement-amca/
+- **[HealthTech]** Data Breaches Announced by MedImpact Healthcare Systems; Rosch Visionary Systems (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breaches-medimpact-healthcare-systems-rosch-visionary-systems/
+- **[HealthTech]** Wayne Memorial Hospital; Regional Urology Settle Data Breach Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/wayne-memorial-hospital-regional-urology-data-breach-settlements/
+
+---
