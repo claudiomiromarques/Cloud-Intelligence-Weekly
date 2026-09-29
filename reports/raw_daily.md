@@ -3536,3 +3536,64 @@
   Link: https://www.hipaajournal.com/labcorp-multistate-settlement-amca/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 29/09/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/
+- **[Cloud]** Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/
+- **[Cloud]** Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+
+- **[Database]** Dasha 1.8: index recommendations, I/O analysis, schema checks and log insights (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dasha-18-index-recommendations-io-analysis-schema-checks-and-log-insights-3387/
+- **[Database]** PL/Haskell v6.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/plhaskell-v60-released-3388/
+- **[Database]** pgEdge Announces pgEdge Starfleet, a New Postgres Cloud Platform to Bridge the AI Prototype to Production Chasm (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgedge-announces-pgedge-starfleet-a-new-postgres-cloud-platform-to-bridge-the-ai-prototype-to-production-chasm-3389/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** You picked Claude Sonnet 5.5 — but Anthropic may send your request to Sonnet 5 in “higher-risk” situations (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-sonnet-cyber-safeguards/
+- **[Multicloud]** OpenAI exposes “new variety of prompt injection” that can spread like computer worms (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-self-replicating-injections/
+- **[Multicloud]** Enterprise AI desperately needs to protect data and models. Here’s how confidential AI could do it. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/confidential-ai-sensitive-enterprise-data/
+
+- **[Segurança]** Next.js applications, powered by Vite: introducing Vinext 1.0 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vinext-nextjs-on-vite/
+- **[Segurança]** Introducing cf: the agentic CLI for the entire Cloudflare API (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/cloudflare-cf-cli-launch/
+- **[Segurança]** How fast is the web? Explore billions of real-user measurements with BEACON (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/how-fast-is-the-web/
+
+- **[HealthTech]** Free Webinar Tomorrow:  Is AI Putting Your Practice at Risk? (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/free-webinar-is-ai-putting-your-practice-at-risk/
+- **[HealthTech]** OpenAI Agent Hacks Australian Medicare Portal (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/openai-agent-hacks-australian-medicare-portal/
+- **[HealthTech]** California Critical Access Hospital Announces Cybersecurity Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/
+
+---
