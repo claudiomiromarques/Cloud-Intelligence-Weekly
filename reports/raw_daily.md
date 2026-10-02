@@ -3719,3 +3719,64 @@
   Link: https://www.hipaajournal.com/mental-health-association-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 02/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
+- **[Cloud]** Amazon S3 Tables now support all Apache Iceberg V3 data types (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/
+- **[Cloud]** Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+- **[Containers]** Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/
+
+- **[Database]** Pgpool-II 4.7.3, 4.6.8, 4.5.13, 4.4.18 and 4.3.21 released. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgpool-ii-473-468-4513-4418-and-4321-released-3390/
+- **[Database]** Dasha 1.8: index recommendations, I/O analysis, schema checks and log insights (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dasha-18-index-recommendations-io-analysis-schema-checks-and-log-insights-3387/
+- **[Database]** PL/Haskell v6.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/plhaskell-v60-released-3388/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI’s always-on agents are free, until one specific thing happens (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-dots-codex-usage/
+- **[Multicloud]** Cloudflare brings paid access to MCP tools — who controls the agent’s spending? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cloudflare-x402-agent-spending/
+- **[Multicloud]** “No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/dynatrace-arize-agents-observability/
+
+- **[Segurança]** Introducing Clef: our open-source decision models, and new RL fine-tuning platform (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/clef-decision-models/
+- **[Segurança]** One year later: Sovereign AI and the fight for choice (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/
+- **[Segurança]** Introducing Workers KV Instant — powered by Quicksilver (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-kv-instant/
+
+- **[HealthTech]** Fairchild Medical Center & Boone Health Settle Pixel Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/fairchild-medical-center-boone-health-pixel-settlements/
+- **[HealthTech]** Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/angmar-management-services-data-breach/
+- **[HealthTech]** OCR Clarifies When SUD Records Can be Used to Verify Medicaid Community Engagement Exclusions (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ocr-guidance-part-2-records-medicaid-community-engagement-exclusions/
+
+---
