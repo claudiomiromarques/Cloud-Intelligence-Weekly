@@ -3963,3 +3963,64 @@
   Link: https://www.hipaajournal.com/ocr-guidance-part-2-records-medicaid-community-engagement-exclusions/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 06/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
+- **[Cloud]** Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
+- **[Cloud]** Amazon S3 Tables now support all Apache Iceberg V3 data types (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+- **[Containers]** Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta) (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/
+
+- **[Database]** pg_ivm 1.16 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_ivm-116-released-3391/
+- **[Database]** pg_vault_tde v1.7.2 : Critical crash fixes, new on-disk format, and stability improvements (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_vault_tde-v172-critical-crash-fixes-new-on-disk-format-and-stability-improvements-3393/
+- **[Database]** dbForge 2026.2 Adds a PostgreSQL Debugger, Visual Object Editors and Broader Context for dbForge AI Assistant (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dbforge-20262-adds-a-postgresql-debugger-visual-object-editors-and-broader-context-for-dbforge-ai-assistant-3394/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** One MCP server used 18,000 tokens before doing anything. Here’s the workaround. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/pi-agent-mcp-codemode/
+- **[Multicloud]** Developers are secretly hoping OpenAI fails to ship this month (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-codex-shipping-sprint/
+- **[Multicloud]** OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-api-text-watermarking/
+
+- **[Segurança]** Everything we launched during Birthday Week 2026 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/birthday-week-2026-wrap-up/
+- **[Segurança]** One year later: the power of 1.1.1.1 interns (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/one-year-later-1111-interns/
+- **[Segurança]** 8 major updates to Cloudflare Observability (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/one-observability-platform/
+
+- **[HealthTech]** Citrix Patches Third Actively Exploited NetScaler Zero Day (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/citrix-patches-third-actively-exploited-netscaler-zero-day/
+- **[HealthTech]** WindRose Health Network Discloses Data Breach Affecting 33K Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/windrose-health-network-data-breach/
+- **[HealthTech]** Website Privacy: Your Privacy Policy Makes Promises But Does Your Website Keep Them? (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/website-privacy-risks/
+
+---
