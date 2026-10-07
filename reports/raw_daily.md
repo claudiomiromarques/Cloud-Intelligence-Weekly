@@ -4024,3 +4024,64 @@
   Link: https://www.hipaajournal.com/website-privacy-risks/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 07/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** All the numbers: Amazon Prime Day 2026 powered by AWS (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
+- **[Cloud]** AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
+- **[Cloud]** Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+
+- **[Database]** pgx-bm25 1.0: BM25 ranked full-text search as a native PostgreSQL index (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgx-bm25-10-bm25-ranked-full-text-search-as-a-native-postgresql-index-3396/
+- **[Database]** pg_plan_filter 1.0.0 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/
+- **[Database]** pg_ivm 1.16 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_ivm-116-released-3391/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/docsy-linux-foundation-agents/
+- **[Multicloud]** The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/open-source-ai-kubernetes/
+- **[Multicloud]** Your phone’s vector index might be bigger than the AI model running it (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/google-embeddinggemma-multimodal-search/
+
+- **[Segurança]** The keys to the Internet change on October 11. Are you ready? (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/root-ksk-2024-rollover/
+- **[Segurança]** Everything we launched during Birthday Week 2026 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/birthday-week-2026-wrap-up/
+- **[Segurança]** One year later: the power of 1.1.1.1 interns (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/one-year-later-1111-interns/
+
+- **[HealthTech]** Citrix Patches Third Actively Exploited NetScaler Zero Day (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/citrix-patches-third-actively-exploited-netscaler-zero-day/
+- **[HealthTech]** WindRose Health Network Discloses Data Breach Affecting 33K Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/windrose-health-network-data-breach/
+- **[HealthTech]** Website Privacy: Your Privacy Policy Makes Promises But Does Your Website Keep Them? (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/website-privacy-risks/
+
+---
