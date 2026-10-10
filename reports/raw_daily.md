@@ -4207,3 +4207,64 @@
   Link: https://www.hipaajournal.com/laboratory-services-cooperative-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 10/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** All the numbers: Amazon Prime Day 2026 powered by AWS (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
+- **[Cloud]** AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
+- **[Cloud]** Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+
+- **[Database]** 2026-10-07: PostgreSQL JDBC 42.7.14 Security update for multiple CVE&#x27;s (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/2026-10-07-postgresql-jdbc-42714-security-update-for-multiple-cves-3399/
+- **[Database]** pgx-bm25 1.0: BM25 ranked full-text search as a native PostgreSQL index (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgx-bm25-10-bm25-ranked-full-text-search-as-a-native-postgresql-index-3396/
+- **[Database]** pg_plan_filter 1.0.0 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/musk-claude-model-triage/
+- **[Multicloud]** Kubernetes on cgroup v1 is dead. Here’s what comes next. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kubernetes-node-swap-ai/
+- **[Multicloud]** Cloudflare acquires Node.js creator’s startup that copied its serverless playbook (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/
+
+- **[Segurança]** Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/clef-faster-cheaper-multimodal/
+- **[Segurança]** Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-on-demand-profiling/
+- **[Segurança]** Deno is joining Cloudflare (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/deno-joins-cloudflare/
+
+- **[HealthTech]** Valley Oaks Health Data Breach Settlement Gets First Nod from Court (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/valley-oaks-health-data-breach-settlement/
+- **[HealthTech]** Bacon County Health Services Investigating Cyber Incident (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/
+- **[HealthTech]** Shen Smiles Pays $140,000 to Resolve HIPAA Privacy Rule Violations (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/shen-smiles-pays-140000-to-resolve-hipaa-privacy-rule-violations/
+
+---
