@@ -4390,3 +4390,64 @@
   Link: https://www.hipaajournal.com/bacon-county-health-services-investigating-cyber-incident/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 13/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Announcing AWS Lambda Web Functions (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+- **[Cloud]** All the numbers: Amazon Prime Day 2026 powered by AWS (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
+- **[Cloud]** AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
+
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+
+- **[Database]** 2026-10-07: PostgreSQL JDBC 42.7.14 Security update for multiple CVE&#x27;s (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/2026-10-07-postgresql-jdbc-42714-security-update-for-multiple-cves-3399/
+- **[Database]** pgx-bm25 1.0: BM25 ranked full-text search as a native PostgreSQL index (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgx-bm25-10-bm25-ranked-full-text-search-as-a-native-postgresql-index-3396/
+- **[Database]** pg_plan_filter 1.0.0 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Workday is using TypeSafe’s Jev to build user interfaces on the fly (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly/
+- **[Multicloud]** Workday goes headless, opening its HR and finance data to outside AI agents (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/workday-headless-mcp-agents/
+- **[Multicloud]** The X Subscription bundles Cursor with Grok and X Premium. But Claude now costs extra. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/x-subscription-cursor-pricing/
+
+- **[Segurança]** Filter, reshape, and redact logs before export with Transformers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/transformers-on-logpush/
+- **[Segurança]** Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/clef-faster-cheaper-multimodal/
+- **[Segurança]** Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/workers-on-demand-profiling/
+
+- **[HealthTech]** Roseland Community Hospital Association Settles Data Breach Lawsuit for $650,000 (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/
+- **[HealthTech]** Secure Healthcare Information Management; Desert Orthopaedic Center Report Data Breaches (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/secure-healthcare-information-management-desert-orthopaedic-center-data-breaches/
+- **[HealthTech]** Etairos Health Settles Ransomware-Related Class Action Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/etairos-health-data-breach-settlement/
+
+---
