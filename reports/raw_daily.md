@@ -4451,3 +4451,64 @@
   Link: https://www.hipaajournal.com/etairos-health-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 14/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/
+- **[Cloud]** Announcing AWS Lambda Web Functions (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+- **[Cloud]** All the numbers: Amazon Prime Day 2026 powered by AWS (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+- **[Containers]** Spotlight on SIG Apps (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/
+
+- **[Database]** PgBouncer 1.26.1 released - Fixes three CVEs (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbouncer-1261-released-fixes-three-cves-3403/
+- **[Database]** Introducing pglifecycle 2.0 beta (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/introducing-pglifecycle-20-beta-3401/
+- **[Database]** 2026-10-07: PostgreSQL JDBC 42.7.14 Security update for multiple CVE&#x27;s (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/2026-10-07-postgresql-jdbc-42714-security-update-for-multiple-cves-3399/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** 66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/chainguard-mythos-security-harness/
+- **[Multicloud]** Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/self-replicating-ai-worms/
+- **[Multicloud]** Gemini 4 Argon debuts with a unified 1M input/output token limit (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/gemini-4-argon-live/
+
+- **[Segurança]** Under the hood, off the hot path: How D1 scales to millions of databases (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/d1-control-plane/
+- **[Segurança]** Rewinding the exponential: How we keep hardware usage down (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/rewinding-the-exponential/
+- **[Segurança]** Filter, reshape, and redact logs before export with Transformers (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/transformers-on-logpush/
+
+- **[HealthTech]** Twin Cities Pain Clinic Settles Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/twin-cities-pain-clinic-data-breach-settlement/
+- **[HealthTech]** Photon Health; Healthcare Highways Announce Data Security Incidents (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/photon-health-healthcare-highways-data-breaches/
+- **[HealthTech]** Roseland Community Hospital Association Settles Data Breach Lawsuit for $650,000 (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/
+
+---
