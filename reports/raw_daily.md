@@ -4512,3 +4512,64 @@
   Link: https://www.hipaajournal.com/roseland-community-hospital-association-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 15/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/
+- **[Cloud]** AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/
+- **[Cloud]** Announcing AWS Lambda Web Functions (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** Perseid 0.1.0 is now available (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/perseid-010-is-now-available-3405/
+- **[Database]** psqlODBC 18.00.0005 released with security fix for CVE-2026-109448 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/psqlodbc-18000005-released-with-security-fix-for-cve-2026-109448-3404/
+- **[Database]** PgBouncer 1.26.1 released - Fixes three CVEs (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbouncer-1261-released-fixes-three-cves-3403/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/torvalds-claude-code-kernel/
+- **[Multicloud]** Researchers left a hidden message for rogue AI agents. Then the agents wrote back. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/rogue-ai-agent-fleet-tencent/
+- **[Multicloud]** Where do you look when Kubernetes is healthy but requests stall? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kubernetes-hidden-latency-telemetry/
+
+- **[Segurança]** Yandex outage: Data shows that instead of going dark, malicious bots went on the move (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/yandex-outage/
+- **[Segurança]** Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/hyperdrive-mysql/
+- **[Segurança]** Under the hood, off the hot path: How D1 scales to millions of databases (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/d1-control-plane/
+
+- **[HealthTech]** July 2026 Healthcare Data Breach Report (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/july-2026-healthcare-data-breach-report/
+- **[HealthTech]** Ivanti Connect Secure Zero Day Exploited in Attacks (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ivanti-connect-secure-zero-day-2026/
+- **[HealthTech]** Twin Cities Pain Clinic Settles Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/twin-cities-pain-clinic-data-breach-settlement/
+
+---
