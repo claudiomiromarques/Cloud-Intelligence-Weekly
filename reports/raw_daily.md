@@ -4695,3 +4695,64 @@
   Link: https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 18/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/
+- **[Cloud]** AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/
+- **[Cloud]** Announcing AWS Lambda Web Functions (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pg_hint_plan v1.9.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_hint_plan-v190-released-3408/
+- **[Database]** pg_utl_smtp v2.0 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_utl_smtp-v20-released-3395/
+- **[Database]** FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/fosdem-pgday-2027-two-days-of-postgresql-with-calls-for-papers-and-sponsors-now-open-3412/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Here are the engineering lessons we learned when live-streaming sports to 32 million people (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/live-streaming-engineering-lessons/
+- **[Multicloud]** AI has lowered the barrier to building. Here’s what that means for engineers. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-lowering-building-barrier/
+- **[Multicloud]** His scanner wouldn’t work on Linux — so he let Claude study the Windows driver (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-code-linux-driver/
+
+- **[Segurança]** Continuous accountability for Verified bots (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/verified-bots-accountability/
+- **[Segurança]** A fully programmable secure web gateway (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/programmable-gateway-dlp/
+- **[Segurança]** Deploy with Void (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/deploy-with-void/
+
+- **[HealthTech]** Healthcare Cyberattacks Increasing and Having Greater Impact on Patient Care (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/healthcare-cyberattacks-increasing-greater-impact-patient-care/
+- **[HealthTech]** Mid Florida Dermatology & Plastic Surgery Data Breach Affects 85K Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/
+- **[HealthTech]** $6.4 Million Settlement Agreed in AMCA Customer Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/amca-customer-data-breach-litigation-settlement/
+
+---
