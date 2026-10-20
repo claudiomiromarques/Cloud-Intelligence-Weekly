@@ -4817,3 +4817,64 @@
   Link: https://www.hipaajournal.com/mid-florida-dermatology-plastic-surgery-data-breach/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 20/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/
+- **[Cloud]** Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/
+- **[Cloud]** AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pg_hint_plan v1.9.0 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_hint_plan-v190-released-3408/
+- **[Database]** pg_utl_smtp v2.0 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_utl_smtp-v20-released-3395/
+- **[Database]** FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/fosdem-pgday-2027-two-days-of-postgresql-with-calls-for-papers-and-sponsors-now-open-3412/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** MiniMax just halved its token prices. Your AI agent bill may not follow. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/minimax-flash-agent-costs/
+- **[Multicloud]** One sentence changed Claude Code’s overreach rate from 0% to 17.1% (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/coding-agents-overstep-scope/
+- **[Multicloud]** DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/deepseek-web-search-api/
+
+- **[Segurança]** Cutting our inference bill by 68% by being obsessive about optimization (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/obsessive-inference-optimization/
+- **[Segurança]** Introducing Clairic, a new System One class of extraction models (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/clairic-extraction-model/
+- **[Segurança]** Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/protect-your-netscaler-gateway/
+
+- **[HealthTech]** Boston Children’s Health Physicians; XTIUM Settle Alleged HIPAA Violations for $2.7M (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/boston-childrens-health-physicians-xtium-hipaa-penalty-ny-ct/
+- **[HealthTech]** iRhythm Data Breach Affects 8.2 Million Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/irhythm-data-breach/
+- **[HealthTech]** Healthcare Cyberattacks Increasing and Having a Greater Impact on Patient Care (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/healthcare-cyberattacks-increasing-greater-impact-patient-care/
+
+---
