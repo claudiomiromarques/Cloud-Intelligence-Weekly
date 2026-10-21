@@ -4878,3 +4878,64 @@
   Link: https://www.hipaajournal.com/healthcare-cyberattacks-increasing-greater-impact-patient-care/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 21/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+- **[Cloud]** AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/
+- **[Cloud]** Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** FOSSASIA PGDay 2027: Bangkok, 9 March – CFP Open (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/fossasia-pgday-2027-bangkok-9-march-cfp-open-3398/
+- **[Database]** RHEL 10.0 and 9.6 repositories are being retired (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/rhel-100-and-96-repositories-are-being-retired-3411/
+- **[Database]** SLES 15.6 repositories are being retired (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/sles-156-repositories-are-being-retired-3415/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Respan spent two years building on LiteLLM. One upgrade made it start over. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/respan-rust-ai-gateway/
+- **[Multicloud]** “We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/cloudflare-rust-typescript-tsrs/
+- **[Multicloud]** Assess the entire inference stack — not just open model benchmarks (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/open-model-benchmarks-production/
+
+- **[Segurança]** 8 eMudhra certificates are compromised. Here's what you need to know (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/emudhra-certificate-compromise/
+- **[Segurança]** Introducing tsrs: A port of TypeScript to Rust (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/typescript-rust-port/
+- **[Segurança]** Cutting our inference bill by 68% by being obsessive about optimization (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/obsessive-inference-optimization/
+
+- **[HealthTech]** California Settles 23andMe Data Breach Lawsuit for $6 Million (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/california-settles-23andme-data-breach-lawsuit/
+- **[HealthTech]** Central Ohio Primary Care Physicians Data Breach Affects 1.4 Million Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/central-ohio-primary-care-physicians-data-breach/
+- **[HealthTech]** $80 Million Settlement Proposed to Resolve Conduent Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/
+
+---
