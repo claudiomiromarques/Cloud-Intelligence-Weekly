@@ -4939,3 +4939,64 @@
   Link: https://www.hipaajournal.com/conduent-business-services-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 22/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+- **[Cloud]** AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/
+- **[Cloud]** Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pgrecon: open-source Oracle to PostgreSQL migration assessment and schema conversion (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgrecon-open-source-oracle-to-postgresql-migration-assessment-and-schema-conversion-3410/
+- **[Database]** SafeGrd: PostgreSQL backups that are restored and checked on a schedule (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/safegrd-postgresql-backups-that-are-restored-and-checked-on-a-schedule-3414/
+- **[Database]** BackupDrill: open-source Supabase Postgres backups with automated restore drills (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/backupdrill-open-source-supabase-postgres-backups-with-automated-restore-drills-3413/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** AI found flaws in the code behind 70% of the web. The fix took two months. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-php2shell-disclosure-framework/
+- **[Multicloud]** Amodei says Anthropic’s safety delay may have cost it an AI lead (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/anthropic-mythos-safety-pace/
+- **[Multicloud]** From feral to fiduciary: making AI agents serve your interests (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-agent-trust-score/
+
+- **[Segurança]** Introducing full transaction detection for Cloudflare WAF (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/full-transaction-waf/
+- **[Segurança]** Cloudflare deploys protections against php2shell vulnerability (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/
+- **[Segurança]** How Commerce.com and Cloudflare are getting storefronts ready for AI agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/webmcp-commerce/
+
+- **[HealthTech]** Jefferson County Health Department Pays $2.25M to Settle Data Breach Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/jefferson-county-health-department-data-breach-settlement/
+- **[HealthTech]** HHS Sends Letters of Nonconformity to Suspected Information Blockers (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hhs-letters-nonconformity-information-blocking-2026/
+- **[HealthTech]** Feds Issues Advisory About SafePay Ransomware Group (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/feds-issues-advisory-about-safepay-ransomware-group/
+
+---
