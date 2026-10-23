@@ -5000,3 +5000,64 @@
   Link: https://www.hipaajournal.com/feds-issues-advisory-about-safepay-ransomware-group/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 23/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+- **[Cloud]** AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pgrecon: open-source Oracle to PostgreSQL migration assessment and schema conversion (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgrecon-open-source-oracle-to-postgresql-migration-assessment-and-schema-conversion-3410/
+- **[Database]** SafeGrd: PostgreSQL backups that are restored and checked on a schedule (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/safegrd-postgresql-backups-that-are-restored-and-checked-on-a-schedule-3414/
+- **[Database]** BackupDrill: open-source Supabase Postgres backups with automated restore drills (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/backupdrill-open-source-supabase-postgres-backups-with-automated-restore-drills-3413/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Five AI agent harnesses took the same memory test. The results weren’t even close. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark/
+- **[Multicloud]** Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ramp-laminar-agent-harness/
+- **[Multicloud]** OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-donates-open-responses/
+
+- **[Segurança]** Localizing compliance at scale: achieving South Korea’s ISMS certification (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/k-isms/
+- **[Segurança]** Introducing full transaction detection for Cloudflare WAF (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/full-transaction-waf/
+- **[Segurança]** Cloudflare deploys protections against php2shell vulnerability (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/
+
+- **[HealthTech]** Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breach-new-york-law-firm/
+- **[HealthTech]** Ridgeway Pharmacy Data Breach Affects 259,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ridgeway-pharmacy-data-breach/
+- **[HealthTech]** Innovative Renal Care Pays $900,000 to Settle Data Breach Litigation (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/innovative-renal-care-data-breach-settlement/
+
+---
