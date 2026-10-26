@@ -5183,3 +5183,64 @@
   Link: https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 26/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+- **[Cloud]** AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pgrecon: open-source Oracle to PostgreSQL migration assessment and schema conversion (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgrecon-open-source-oracle-to-postgresql-migration-assessment-and-schema-conversion-3410/
+- **[Database]** SafeGrd: PostgreSQL backups that are restored and checked on a schedule (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/safegrd-postgresql-backups-that-are-restored-and-checked-on-a-schedule-3414/
+- **[Database]** BackupDrill: open-source Supabase Postgres backups with automated restore drills (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/backupdrill-open-source-supabase-postgres-backups-with-automated-restore-drills-3413/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Is Kubernetes ready for AI agents? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kubernetes-ready-ai-agents/
+- **[Multicloud]** AWS says its AI security agent fixes 89% of bugs — but there’s a catch (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/
+- **[Multicloud]** Building an agentic software factory? Start with the sensor. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/agentic-software-factory-sensor/
+
+- **[Segurança]** Origin Range Requests: Serving large files without range-request tuning (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/origin-range-requests/
+- **[Segurança]** Bringing post-quantum cryptography to geographically fenced key management (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/post-quantum-geo-key-manager/
+- **[Segurança]** Localizing compliance at scale: achieving South Korea’s ISMS certification (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/k-isms/
+
+- **[HealthTech]** Free Webinar on Wednesday: A Practical Guide to a HIPAA Security Risk Assessment (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/a-practical-guide-to-a-hipaa-security-risk-assessment/
+- **[HealthTech]** Washington Gastroenterology Pays $4.6 Million to Settle Data Breach Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/washington-gastroenterology-data-breach-settlement/
+- **[HealthTech]** UltraMobile Imaging Identifies Data Breach Impacting 75,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/
+
+---
