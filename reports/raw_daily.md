@@ -5244,3 +5244,64 @@
   Link: https://www.hipaajournal.com/ultramobile-imaging-artistic-smiles-parkview-health-data-breaches/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 27/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+- **[Containers]** Scaling Kubernetes Workloads with Node Swap (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/
+
+- **[Database]** pg_ivm 1.17 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_ivm-117-released-3420/
+- **[Database]** HypoPG 1.4.4 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/hypopg-144-is-out-3421/
+- **[Database]** pg_hdr_histogram 1.0.0 - exact percentiles in PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_hdr_histogram-100-exact-percentiles-in-postgresql-3418/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI halved its agent’s price. Its own safety report flagged a catch. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-terra-bypassed-restrictions/
+- **[Multicloud]** AI is changing Kubernetes; is your platform ready for 2027? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/kubernetes-agentic-ai-platforms/
+- **[Multicloud]** Most of Anthropic’s Q3 revenue came from models that barely existed six months ago (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/anthropic-s1-models-revenue/
+
+- **[Segurança]** Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+- **[Segurança]** Origin Range Requests: Serving large files without range-request tuning (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/origin-range-requests/
+- **[Segurança]** Bringing post-quantum cryptography to geographically fenced key management (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/post-quantum-geo-key-manager/
+
+- **[HealthTech]** Denver Health Medical Plan Discloses Vendor Breach Affecting 238K Members (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/denver-health-medical-plan-data-breach/
+- **[HealthTech]** Vendor Data Incidents Account for 69% of All Breach Victims (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/vendor-data-breaches-69-breach-victims/
+- **[HealthTech]** Multiple Vulnerabilities Identified in Component Used by Smile Digital Health’s Smile CDR (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hapi-fhir-vulnerabilities-smile-cdr/
+
+---
