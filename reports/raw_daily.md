@@ -5305,3 +5305,64 @@
   Link: https://www.hipaajournal.com/hapi-fhir-vulnerabilities-smile-cdr/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 28/10/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+- **[Containers]** The Shift to cgroup v2 in Kubernetes: What You Need to Know (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
+
+- **[Database]** PostgreSQL@SCaLE24x CfP closing soon on Nov 1, 2027 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresqlscale24x-cfp-closing-soon-on-nov-1-2027-3363/
+- **[Database]** Estuary Expands PostgreSQL CDC with Targeted Backfills and Scalable Discovery (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/estuary-expands-postgresql-cdc-with-targeted-backfills-and-scalable-discovery-3419/
+- **[Database]** Oxynote: an open source internal wiki with live PostgreSQL query charts (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/oxynote-an-open-source-internal-wiki-with-live-postgresql-query-charts-3406/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Google built AI agents a world to practice in. The physics still aren’t quite right. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/genie-4-world-model/
+- **[Multicloud]** Replit’s CEO says an idea from 1937 could make the org chart obsolete (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/replit-self-driving-company/
+- **[Multicloud]** “The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/php2shell-unpatched-php-servers/
+
+- **[Segurança]** Introducing the Cloudflare PHP Capture the Flag challenge (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/php-ctf/
+- **[Segurança]** What took the Internet offline in Q3 2026 (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/q3-2026-internet-disruption-summary/
+- **[Segurança]** Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+
+- **[HealthTech]** University of New Mexico Health System Diverts Ambulances Due to Ransomware Attack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/university-new-mexico-health-system-cyberattack/
+- **[HealthTech]** Baptist Health Data Breach Settlement Gets First Nod (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/baptist-health-medical-center-drew-county-data-breach-settlement/
+- **[HealthTech]** Free Webinar Today: A Practical Guide to a HIPAA Security Risk Assessment (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/a-practical-guide-to-a-hipaa-security-risk-assessment/
+
+---
