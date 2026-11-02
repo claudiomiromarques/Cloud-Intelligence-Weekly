@@ -5610,3 +5610,64 @@
   Link: https://www.hipaajournal.com/goodrx-25-million-settlement-tracking-technology-lawsuit/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 02/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+- **[Cloud]** Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** E-Maj 5.0.1 : Major Security Update. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/e-maj-501-major-security-update-3425/
+- **[Database]** pgAdmin 4 v9.19 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgadmin-4-v919-released-3426/
+- **[Database]** PostgreSQL@SCaLE24x CfP closing soon on Nov 1, 2027 (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresqlscale24x-cfp-closing-soon-on-nov-1-2027-3363/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source communities (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Open-source security in the AI exploit era: Patch without changing a thing (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/patchmageddon-open-source-security22842502/
+- **[Multicloud]** A step-by-step guide for how to kill the line-by-line code review (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-code-review-invariants/
+- **[Multicloud]** The context problem: How Docusign built agents that understand the business behind contracts (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/docusign-contract-ai-agents/
+
+- **[Segurança]** How we halved DNS build delay and cut memory use by 85% (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-targeted-zone-builds/
+- **[Segurança]** 4 real? Tracking exploitation and patching of eMudhra’s weak keys (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/emudhra-patching/
+- **[Segurança]** Cloudflare services for private origins is now generally available (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/private-origins-public-to-private/
+
+- **[HealthTech]** HIPAA Violation Fines (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-violation-fines/
+- **[HealthTech]** HIPAA Violation Cases: Types & Consequences (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-violation-cases/
+- **[HealthTech]** August 2026 Healthcare Data Breach Report (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/
+
+---
