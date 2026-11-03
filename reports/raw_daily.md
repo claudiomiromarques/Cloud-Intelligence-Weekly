@@ -5671,3 +5671,64 @@
   Link: https://www.hipaajournal.com/august-2026-healthcare-data-breach-report/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 03/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** Security release for psqlodbc (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/security-release-for-psqlodbc-3431/
+- **[Database]** HypoPG 1.4.5 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/hypopg-145-is-out-3428/
+- **[Database]** E-Maj 5.0.1 : Major Security Update. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/e-maj-501-major-security-update-3425/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** OpenAI built itself a new Git backend, too (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/openai-pando-git-backend/
+- **[Multicloud]** Developers are downgrading their AI on purpose — and it’s working (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/claude-code-developer-refusals/
+- **[Multicloud]** Your AI coding agent now runs on a budget — and it can cut you off mid-task (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/22842541cognition-devin-hierarchical-budgets/
+
+- **[Segurança]** How we halved DNS build delay and cut memory use by 85% (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-targeted-zone-builds/
+- **[Segurança]** 4 real? Tracking exploitation and patching of eMudhra’s weak keys (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/emudhra-patching/
+- **[Segurança]** Cloudflare services for private origins is now generally available (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/private-origins-public-to-private/
+
+- **[HealthTech]** Hospital Español Auxilio Mutuo de Puerto Rico Settles Data Breach Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hospital-espanol-auxilio-mutuo-de-puerto-rico-data-breach-settlement/
+- **[HealthTech]** Marathon Health Data Breach Reportedly Affects 5.7 Million Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/marathon-health-data-breach/
+- **[HealthTech]** Cognitive Health Technologies Data Breach Affects 49,500 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/cognitive-health-technologies-data-breach/
+
+---
