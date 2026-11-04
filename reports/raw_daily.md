@@ -5732,3 +5732,64 @@
   Link: https://www.hipaajournal.com/cognitive-health-technologies-data-breach/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 04/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+- **[Cloud]** AWS Continuum for code vulnerabilities is now generally available (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** pgbadger v13.3 has been released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbadger-v133-has-been-released-3435/
+- **[Database]** Security release for psqlodbc (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/security-release-for-psqlodbc-3431/
+- **[Database]** HypoPG 1.4.5 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/hypopg-145-is-out-3428/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** A developer opened Postman. Then two AI coding agents changed without their permission. (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/postman-plugin-coding-agents/
+- **[Multicloud]** Can agent standards keep up with the companies building them? (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/mazin-gilbert-aaif-interview/
+- **[Multicloud]** Goldman Sachs restricted Claude Code for bankers — but made one surprising exception (The New Stack (Multicloud & DevOps))
+  Link: https://thenewstack.io/ai-coding-agents-security/
+
+- **[Segurança]** Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/zero-wire/
+- **[Segurança]** How we halved DNS build delay and cut memory use by 85% (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-targeted-zone-builds/
+- **[Segurança]** 4 real? Tracking exploitation and patching of eMudhra’s weak keys (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/emudhra-patching/
+
+- **[HealthTech]** Data Breaches Announced by HCA Healthcare; Blossom Health (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breaches-hca-healthcare-blossom-health/
+- **[HealthTech]** University Hospitals Working on Restoring Systems After Cyberattack (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/university-hospitals-eyemed-facial-surgery-group-data-breaches/
+- **[HealthTech]** $2 Million Settlement Resolves Covenant Health Data Breach Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/
+
+---
