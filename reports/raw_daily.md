@@ -5793,3 +5793,58 @@
   Link: https://www.hipaajournal.com/covenant-health-class-action-data-breach-settlement/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 05/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/
+- **[Cloud]** AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
+- **[Cloud]** AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** pgbadger v13.3 has been released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgbadger-v133-has-been-released-3435/
+- **[Database]** Security release for psqlodbc (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/security-release-for-psqlodbc-3431/
+- **[Database]** HypoPG 1.4.5 is out! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/hypopg-145-is-out-3428/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** See the agents, set the terms: new visibility and control for personal agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/personal-agents-visibility-control/
+- **[Segurança]** Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/zero-wire/
+- **[Segurança]** How we halved DNS build delay and cut memory use by 85% (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/dns-targeted-zone-builds/
+
+- **[HealthTech]** Vida Y Salud-Health Systems & Hampton Regional Medical Center Settle Data Breach Lawsuits (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/vida-y-salud-hampton-regional-medical-center-data-breach-settlements/
+- **[HealthTech]** HIPAA Certification for Medical Couriers (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-certification-for-medical-couriers/
+- **[HealthTech]** Senate Bill Seeks to Expand Use of AI Technologies in Healthcare and Reimburse for Adoption (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/senate-bill-patient-ai-act/
+
+---
