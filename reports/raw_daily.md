@@ -6123,3 +6123,58 @@
   Link: https://www.hipaajournal.com/hipaa-violation-fines/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 11/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/
+- **[Cloud]** Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/
+- **[Cloud]** AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** Dasha 1.10: Patroni auto-discovery, wait analysis and replication slot forecasts for PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dasha-110-patroni-auto-discovery-wait-analysis-and-replication-slot-forecasts-for-postgresql-3438/
+- **[Database]** AgensGraph 2.18 Released: Graph Database on PostgreSQL 18 with Expanded ISO GQL Support (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/agensgraph-218-released-graph-database-on-postgresql-18-with-expanded-iso-gql-support-3437/
+- **[Database]** Brume: FK-safe pseudonymization for PostgreSQL test and debug copies (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/brume-fk-safe-pseudonymization-for-postgresql-test-and-debug-copies-3434/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://www.anthropic.com/news
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** Launching the Vite Ecosystem Fund (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/launching-vite-ecosystem-fund/
+- **[Segurança]** The post-quantum future of web privacy (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/vole-mole/
+- **[Segurança]** Agents aren’t humans (but they kinda are) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/trusted-agent-delegation/
+
+- **[HealthTech]** Insider Data Theft Incident Reported by Premise Health (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/premise-health-telecare-corp-enara-health-data-breaches/
+- **[HealthTech]** CISA Seeks More Granular Information on Cyber Incidents (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/cisa-updates-cyber-incident-reporting-form/
+- **[HealthTech]** OSHA Medical Courier Training Online (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/osha-medical-courier-training-online/
+
+---
