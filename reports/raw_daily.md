@@ -6288,3 +6288,58 @@
   Link: https://www.hipaajournal.com/chime-providers-concerns-verification-hipaa-privacy-rule-update/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 14/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Test your applications against AWS locally with AWS Emulator (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
+- **[Cloud]** AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/
+- **[Cloud]** Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+- **[Containers]** Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
+
+- **[Database]** PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/
+- **[Database]** Dasha 1.10: Patroni auto-discovery, wait analysis and replication slot forecasts for PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/dasha-110-patroni-auto-discovery-wait-analysis-and-replication-slot-forecasts-for-postgresql-3438/
+- **[Database]** AgensGraph 2.18 Released: Graph Database on PostgreSQL 18 with Expanded ISO GQL Support (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/agensgraph-218-released-graph-database-on-postgresql-18-with-expanded-iso-gql-support-3437/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** Kitesurf is now open source (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/kitesurf-open-source/
+- **[Segurança]** Adapting to AI penetration testing orchestrators: The Modern Security Model (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/
+- **[Segurança]** Introducing Spend Management: Spending limits and alerts for Cloudflare (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/spend-management/
+
+- **[HealthTech]** Oregon Dental Practice Reports Two Data Breaches Affecting More Than 31,000 Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breach-hood-river-dental-liberty-health-keep-smiling-dental/
+- **[HealthTech]** Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breaches-dorsata-bay-area-psychological-consultants-lansing-urgent-care/
+- **[HealthTech]** Healthcare Data Breach Statistics – Updated for 2026 (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/healthcare-data-breach-statistics/
+
+---
