@@ -6453,3 +6453,58 @@
   Link: https://www.hipaajournal.com/healthcare-data-breach-statistics/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 17/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/
+- **[Cloud]** Test your applications against AWS locally with AWS Emulator (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
+- **[Cloud]** AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Scheduling the removal of the kube-proxy IPVS backend (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/16/ipvs-removal/
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+
+- **[Database]** PG_CVE 1.1.1 Released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_cve-111-released-3443/
+- **[Database]** pg_fastload 1.0.0 released: parallel bulk loading for PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pg_fastload-100-released-parallel-bulk-loading-for-postgresql-3445/
+- **[Database]** Apache Cloudberry 2.2.0 Released: PostgreSQL-Based MPP Database Moves to the PostgreSQL 14.10 Kernel (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/apache-cloudberry-220-released-postgresql-based-mpp-database-moves-to-the-postgresql-1410-kernel-3440/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** Kitesurf is now open source (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/kitesurf-open-source/
+- **[Segurança]** Adapting to AI penetration testing orchestrators: The Modern Security Model (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/
+- **[Segurança]** Introducing Spend Management: Spending limits and alerts for Cloudflare (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/spend-management/
+
+- **[HealthTech]** HIPAA Privacy Rule Update: HHS Issues Final Rule Implementing HIPAA Privacy Rule Modifications (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-privacy-rule-update/
+- **[HealthTech]** Weaponized ARTEX Pen Testing Framework Used in Attacks on Healthcare Orgs (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/weaponized-artex-pen-testing-framework-attacks-healthcare/
+- **[HealthTech]** Data Breaches Announced by LifeTouch Health; MPOWERHealth; Geisinger (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/data-breach-lifetouch-mpower-health-geisinger/
+
+---
