@@ -6508,3 +6508,58 @@
   Link: https://www.hipaajournal.com/data-breach-lifetouch-mpower-health-geisinger/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 18/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** Four Continents, Four New AWS Heroes: Closing Out 2026 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
+- **[Cloud]** AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/
+- **[Cloud]** Test your applications against AWS locally with AWS Emulator (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Scheduling the removal of the kube-proxy IPVS backend (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/16/ipvs-removal/
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+
+- **[Database]** WAL-G 3.0.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/wal-g-3010-released-3448/
+- **[Database]** pgjumbo: a new free desktop client for PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgjumbo-a-new-free-desktop-client-for-postgresql-3444/
+- **[Database]** pgSherpa: a free PostgreSQL monitoring companion for macOS (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgsherpa-a-free-postgresql-monitoring-companion-for-macos-3446/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** Quad9’s withdrawal from France: A canary in the coal mine (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+- **[Segurança]** Kitesurf is now open source (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/kitesurf-open-source/
+- **[Segurança]** Adapting to AI penetration testing orchestrators: The Modern Security Model (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/
+
+- **[HealthTech]** Healthcare Employees Sharing Patient Data with AI Tools Viewed as Major Emerging Risk (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/healthcare-employees-sharing-patient-data-ai-tools-major-risk/
+- **[HealthTech]** Alleged U.S Hospital Ransomware Attacker Extradited to U.S. to Face Charges (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/alleged-us-hospital-ransomware-attacker-extradited/
+- **[HealthTech]** HIPAA Privacy Rule Update: HHS Issues Final Rule Implementing HIPAA Privacy Rule Modifications (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/hipaa-privacy-rule-update/
+
+---
