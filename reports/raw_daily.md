@@ -6618,3 +6618,58 @@
   Link: https://www.hipaajournal.com/healthcare-employees-sharing-patient-data-ai-tools-major-risk/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 20/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/
+- **[Cloud]** Four Continents, Four New AWS Heroes: Closing Out 2026 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
+- **[Cloud]** AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Scheduling the removal of the kube-proxy IPVS backend (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/16/ipvs-removal/
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+
+- **[Database]** PostgreSQL 19 Released! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-19-released-3449/
+- **[Database]** WAL-G 3.0.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/wal-g-3010-released-3448/
+- **[Database]** pgjumbo: a new free desktop client for PostgreSQL (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgjumbo-a-new-free-desktop-client-for-postgresql-3444/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/nginx2root/
+- **[Segurança]** Internet traffic and attacks during the 2026 U.S. midterm elections (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/internet-traffic-2026-us-election/
+- **[Segurança]** An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/open-clairic/
+
+- **[HealthTech]** Access Dental Management Breach Affects Over 341,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/
+- **[HealthTech]** Vulnerabilities OFFIS DCMTK Toolkit Can Result in Data Deletion (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/office-dcmtk-toolkit-vulnerabilities-nov-2026/
+- **[HealthTech]** Yuma Regional Medical Center Pays $1,985,000 to Settle Data Breach Lawsuit (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/yuma-regional-medical-center-data-breach-settlement/
+
+---
