@@ -6728,3 +6728,58 @@
   Link: https://www.hipaajournal.com/office-dcmtk-toolkit-vulnerabilities-nov-2026/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 22/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/
+- **[Cloud]** Four Continents, Four New AWS Heroes: Closing Out 2026 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
+- **[Cloud]** AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Scheduling the removal of the kube-proxy IPVS backend (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/16/ipvs-removal/
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+- **[Containers]** Announcing the Workload Conformance Working Group (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+
+- **[Database]** Nordic PGDay 2027 - Call for Papers &amp; Sponsors! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/nordic-pgday-2027-call-for-papers-sponsors-3450/
+- **[Database]** PostgreSQL 19 Released! (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/postgresql-19-released-3449/
+- **[Database]** WAL-G 3.0.10 released (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/wal-g-3010-released-3448/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/ruby2shell-waf-protection/
+- **[Segurança]** How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/phpaftershell-waf-protection/
+- **[Segurança]** nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/nginx2root/
+
+- **[HealthTech]** Healthcare Sector Disclosed 100 Ransomware Attacks in Q3 (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/q3-2026-ransomware-report-healthcare/
+- **[HealthTech]** Access Dental Management Breach Affects Over 341,000 Individuals (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/access-dental-valley-family-health-care-ochsner-health-data-breach/
+- **[HealthTech]** Vulnerabilities OFFIS DCMTK Toolkit Can Result in Data Deletion (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/office-dcmtk-toolkit-vulnerabilities-nov-2026/
+
+---
