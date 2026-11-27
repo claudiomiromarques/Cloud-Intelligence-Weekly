@@ -7003,3 +7003,58 @@
   Link: https://www.hipaajournal.com/colla-health-bausch-health-opn-healthcare-data-breaches/
 
 ---
+### 🗓️ Coleta de Dados Brutos - 27/11/2026
+
+- **[Cloud]** What&#39;s New in Azure Architecture Center - Azure Architecture Center | Microsoft Learn (Azure Microsoft)
+  Link: https://learn.microsoft.com/en-us/azure/architecture/changelog
+
+- **[Cloud]** AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026) (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/
+- **[Cloud]** AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/
+- **[Cloud]** Four Continents, Four New AWS Heroes: Closing Out 2026 (Amazon Web Services)
+  Link: https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/
+
+- **[Cloud]** Sem atualizações disponíveis para Google Cloud Platform.
+- **[Cloud]** Oracle Cloud Infrastructure Release Notes (Oracle Cloud Infrastructure)
+  Link: https://www.oracle.com/corporate/index.html
+
+- **[Containers]** Kubernetes v1.38 Sneak Peek (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/
+- **[Containers]** Scheduling the removal of the kube-proxy IPVS backend (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/11/16/ipvs-removal/
+- **[Containers]** From Working Group to SIG Architecture: spotlight on AI Conformance (Kubernetes Community)
+  Link: https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
+
+- **[Database]** Code of Conduct Committee Seeking New Volunteers (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/code-of-conduct-committee-seeking-new-volunteers-3454/
+- **[Database]** Announcing the first Distributed E-Maj version. (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/announcing-the-first-distributed-e-maj-version-3452/
+- **[Database]** PGConf.dev 2027 Call for Proposals is Open (PostgreSQL Global)
+  Link: https://www.postgresql.org/about/news/pgconfdev-2027-call-for-proposals-is-open-3451/
+
+- **[IaC]** Sem atualizações disponíveis para HashiCorp Terraform.
+- **[Automation]** Open source (Red Hat Ansible)
+  Link: https://static.redhat.com
+- **[Automation]** Red Hat (Red Hat Ansible)
+  Link: https://consent.trustarc.com
+
+- **[Inteligência Artificial]** Newsroom \ Anthropic (Anthropic News (Claude))
+  Link: https://assets.claude.com/bfd4aa0ef6a657e6f22fe214dc177aeff4c4c247.gif
+
+- **[Multicloud]** Sem atualizações disponíveis para The New Stack (Multicloud & DevOps).
+- **[Segurança]** Introducing Search for Agents (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/search-for-agents/
+- **[Segurança]** Probing DNS at Cloudflare (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/probing-dns-at-cloudflare/
+- **[Segurança]** How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) (Cloudflare Engineering (Segurança & Edge))
+  Link: https://blog.cloudflare.com/ruby2shell-waf-protection/
+
+- **[HealthTech]** September 2026 Healthcare Data Breach Report (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/september-2026-healthcare-data-breach-report/
+- **[HealthTech]** Free Webinar: What the New HIPAA Privacy Rule Means for Your Small Practice (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/what-the-new-hipaa-privacy-rule-means-for-your-small-practice/
+- **[HealthTech]** Study Identifies Alarming Volume of Consumer Devices on Healthcare Production Networks (Maturidade e Governança de TI em Saúde (LGPD))
+  Link: https://www.hipaajournal.com/study-consumer-devices-healthcare-production-networks/
+
+---
